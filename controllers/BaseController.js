@@ -1,8 +1,8 @@
 /* globals d3 */
-import { Model } from '/node_modules/uki/dist/uki.esm.js';
+import { Model } from '/calliope/node_modules/uki/dist/uki.esm.js';
 
-import Navbar from '/views/Navbar/Navbar.js';
-import Footer from '/views/Footer/Footer.js';
+import Navbar from '/calliope/views/Navbar/Navbar.js';
+import Footer from '/calliope/views/Footer/Footer.js';
 
 class BaseController extends Model {
   constructor () {
