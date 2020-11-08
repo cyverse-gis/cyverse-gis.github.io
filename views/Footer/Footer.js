@@ -1,4 +1,4 @@
-import { View } from '../../node_modules/uki/dist/uki.esm.js';
+import { View } from '../../calliope/node_modules/uki/dist/uki.esm.js';
 
 class Footer extends View {
   constructor (d3el) {
