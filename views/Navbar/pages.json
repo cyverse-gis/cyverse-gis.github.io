@@ -1,5 +1,5 @@
 [
-  { "path": "/about", "title": "About" },
-  { "path": "/documentation", "title": "Documentation" },
-  { "path": "/faq", "title": "FAQ" }
+  { "path": "/calliope/about", "title": "About" },
+  { "path": "/calliope/documentation", "title": "Documentation" },
+  { "path": "/calliope/faq", "title": "FAQ" }
 ]
