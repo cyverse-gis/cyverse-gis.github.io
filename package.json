@@ -1,5 +1,5 @@
 {
-  "name": "cyverse-gis.github.io",
+  "name": "cyverse-gis.github.io/calliope/",
   "version": "0.1.0",
   "description": "calliope project website",
   "scripts": {
@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyverse-gis/cyverse-gis.github.io.git"
+    "url": "git+https://github.com/cyverse-gis/calliope.git"
   },
   "bugs": {
-    "url": "https://github.com/cyverse-gis/cyverse-gis.github.io/issues"
+    "url": "https://github.com/cyverse-gis/calliope/issues"
   },
   "license": "GNU GPL 3.0",
-  "homepage": "https://github.com/cyverse-gis/cyverse-gis.github.io#readme",
+  "homepage": "https://github.com/cyverse-gis/calliope#readme",
   "devDependencies": {
     "serve": "^11.3.0"
   },
