@@ -1,4 +1,4 @@
-import { View } from '../../node_modules/uki/dist/uki.esm.js';
+import { View } from '../../../node_modules/uki/dist/uki.esm.js';
 
 class Navbar extends View {
   constructor (d3el) {
